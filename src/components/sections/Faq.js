@@ -113,7 +113,7 @@ useLayoutEffect(() => {
 <Accordion ScrollTrigger={ScrollTrigger} title="HOW CAN I USE MY NFT?" >
 You will be able to use your NFT as an avatar in the Metaverse and our future video game. Holding also means that you are part of an exclusive network of investors and entrepreneurs.
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE STRETCHIES?
+  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE WEIRDOS?
 " >
 The Stretchies are collection of NFTs—unique digital collectibles. The Stretchies are stored as ERC-721 tokens on the Polygon blockchain and hosted on IPFS. Each NFT is an unique experience and comes with a membership to an exclusive place called "Stretching hall". Join an ambitious ever-growing community with multiple benefits and utilities.
   </Accordion>
